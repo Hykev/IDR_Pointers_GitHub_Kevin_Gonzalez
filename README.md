@@ -1,4 +1,4 @@
-# 📌 Tarea 3 – IDR, Pointers, Github 
+# 📌 Tarea IDR, Pointers, Github 
 
 - **Nombre:** Kevin Gonzalez   
 - **Carrera:** Ingeniería en Electrónica y Telecomunicaciones  
