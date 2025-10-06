@@ -4,4 +4,4 @@ Este ejercicio demuestra la diferencia entre pasar variables por valor e interca
 
 📹 Video de demostración: [Ver en YouTube](https://youtu.be/Jn8nvxpWnxE)
 
-El código fuente se encuentra en la carpeta [/src/swap.cpp](src/swap.cpp).
+El código fuente se encuentra en la carpeta [/scr/my_program.cpp](../Variable_Swap/scr/my_program.cpp).
